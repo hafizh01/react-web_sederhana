@@ -1,0 +1,20 @@
+#contact {
+    background: #dedede;
+    padding: 50px 0px 50px 0px;
+  }
+  
+.footer{
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+}
+
+.footer-section{
+    width:  2%;
+    margin: 0 50px;
+    
+ 
+    
+}

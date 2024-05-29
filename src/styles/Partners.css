@@ -1,0 +1,18 @@
+.partner-list{
+    width: 100%;
+    position: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.kartu-partner{
+    width: 20%;
+    margin: 0 auto;
+
+}
+
+.kartu-partner img{
+    width: 232px;
+    border-radius: 50%;
+}
+
